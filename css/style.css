@@ -1,0 +1,45 @@
+body {
+  background-image: url('http://unrestrictedstock.com/wp-content/uploads/fabric-pattern-seamless-free-stock-vector-03.png');
+  background-size: 20%;
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+#wrapper {
+  background-color: #CEE2D1;
+  border-left: solid 5px #006B86;
+  border-right: solid 5px #006B86;
+}
+
+#title {
+  padding-top: 5%;
+}
+
+#image {
+  margin-bottom: 4%;
+}
+
+h1 {
+  font-family: Verdana, sans-serif;
+  font-weight: 800;
+}
+
+section {
+  text-indent: 10%;
+  line-height: 2em;
+  text-align: justify;
+}
+
+section>p::first-letter {
+  font-weight: bold;
+  font-size: 150%;
+  color: #006B86;
+}
+
+#detail {
+  margin: 0;
+}
+#detail a {
+  font-weight: bold;
+  text-decoration: none;
+}
